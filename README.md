@@ -18,6 +18,6 @@ This is a Blog Application using DatabaseFirst, ASP.NET Core API, Identity Libra
    * Run this command line : npm install
    * Run this command :      ng serve -o
 
-#################### IF YOU NEEDED TO TEST APIs & PUT DUMMY DATA TO DATABASE ##############################
+##### IF YOU NEEDED TO TEST APIs & PUT DUMMY DATA TO DATABASE ######
 * you will find Postman Folder in the App.Folder you will need to attach the environment & Collection of Ready Requests 
 * After Running Backend Server, Test Every Endpoint with the Collection.
